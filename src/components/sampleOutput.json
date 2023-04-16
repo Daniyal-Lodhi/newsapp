@@ -1,0 +1,62 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": {
+        "status": "ok",
+        "totalResults": 4,
+        "articles": [
+            {
+                "source": {
+                    "id": "usa-today",
+                    "name": "USA Today"
+                },
+                "author": null,
+                "title": "Death toll rises to 26 after 'heartbreaking day' as tornadoes hit South, Midwest; more storms forecast: Live updates",
+                "description": "More dangerous weather was forecast for the South and Midwest after severe storms and tornadoes tore through the area this weekend. Updates.",
+                "url": "https://www.usatoday.com/story/news/nation/2023/04/02/tornadoes-storms-live-updates/11587581002/",
+                "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/02/USAT/cbf5a83f-5707-4930-9624-fec917761752-AP_Severe_Weather.jpg?auto=webp&crop=3299,1856,x0,y160&format=pjpg&width=1200",
+                "publishedAt": "2023-04-02T14:12:39+00:00",
+                "content": "MEMPHIS – The death toll rose to 26 and more dangerous weather was forecast for a wide swath of the South and Midwest already in ruins Sunday from a surge of storms that fueled confirmed or suspected… [+4404 chars]"
+            },
+            {
+                "source": {
+                    "id": "associated-press",
+                    "name": "Associated Press"
+                },
+                "author": "ADRIAN SAINZ and ANDREW DeMILLO",
+                "title": "Broad swaths of US reel from tornadoes that killed 27",
+                "description": "WYNNE, Ark. (AP) — Residents across a wide swath of the South and Midwest on Sunday raced to assess the destruction wreaked by storms that dropped possibly dozens of tornadoes and killed at least 27 people in small towns and big cities, as severe weather move…",
+                "url": "https://apnews.com/1931cb7510deab7ad26890d033fb32e1",
+                "urlToImage": "https://storage.googleapis.com/afs-prod/media/24a0ac3b899c48f7a0ce4383a8332d02/1920.jpeg",
+                "publishedAt": "2023-04-02T13:10:34Z",
+                "content": "WYNNE, Ark. (AP) — Residents across a wide swath of the South and Midwest on Sunday raced to assess the destruction wreaked by storms that dropped possibly dozens of tornadoes and killed at least 27 … [+6042 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Annabelle Timsit",
+                "title": "Death toll rises to 26 after storms pummel South, Midwest and Mid-Atlantic",
+                "description": "The storms are expected to worsen again on Tuesday, with more risk of tornadoes in Missouri and other parts of the Midwest, the National Weather Service said.",
+                "url": "https://www.washingtonpost.com/weather/2023/04/02/tornadoes-storms-update-death-toll/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FEBHT3NAFHNF2L64U4OPI3O5P4.JPG&w=1440",
+                "publishedAt": "2023-04-02T11:46:46Z",
+                "content": "Comment on this story\r\nThe death toll from severe thunderstorms in the South, Midwest and Mid-Atlantic has risen to 26, as authorities warned that extreme weather will probably return later this week… [+4264 chars]"
+            },
+            {
+                "source": {
+                    "id": "associated-press",
+                    "name": "Associated Press"
+                },
+                "author": "SETH BORENSTEIN",
+                "title": "The US leads the world in weather catastrophes. Here's why",
+                "description": "The United States is Earth's punching bag for nasty weather.Blame geography for the U.S. getting hit by stronger, costlier, more varied and frequent extreme weather than anywhere on the planet, several experts said.",
+                "url": "https://apnews.com/af8acdcb330cff39d689efc187cd17b7",
+                "urlToImage": "https://storage.googleapis.com/afs-prod/media/53a508e25b224235ba0209ee9d15c9c1/3000.jpeg",
+                "publishedAt": "2023-04-02T06:56:55Z",
+                "content": "The United States is Earth's punching bag for nasty weather.Blame geography for the U.S. getting hit by stronger, costlier, more varied and frequent extreme weather than anywhere on the planet, sever… [+6288 chars]"
+            }
+        ]
+    }
+}
