@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+// code to get api data via local json
+
+import logo from './logo.svg';
+>>>>>>> 91876acdd988dfe2344bb167bd686f4a1487f029
 import './App.css';
 import React, { Component } from 'react'
 import Navbar from './components/Navbar';
