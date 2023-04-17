@@ -39,7 +39,7 @@ function News(props){
     }
     useEffect(()=>{
         updateNews()
-    },[props.category])
+    })
 
     const pageincrementor  = ()=>{
         if (page === 1){
