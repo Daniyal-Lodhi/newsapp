@@ -14,7 +14,7 @@ function NewsItem(props)   {
                         <p className="card-text"><small className="text-muted"><i>On {!date?";":new Date(date).toDateString()} by {!author?"Anonymous":author}  </i> </small></p>
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text">{description}...</p>
-                        <a href={newsUrl} rel="noreferrer" target="_blank" className="btn btn-dark">Read more</a>
+                        <a href={newsUrl} target="_blank" className="btn btn-dark">Read more</a>
                     </div>
                 </div>
             </div>

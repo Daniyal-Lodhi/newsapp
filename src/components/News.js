@@ -39,7 +39,7 @@ function News(props){
     }
     useEffect(()=>{
         updateNews()
-    },['hello'])
+    },[])
 
     const pageincrementor  = ()=>{
         if (page === 1){
