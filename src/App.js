@@ -13,7 +13,7 @@ import {
 import Homepage from './components/Homepage';
 
 export default class App extends Component {
-  apikey =  process.env.REACT_APP_API_KEY
+  apikey =  "81eb3d155da54414bfd279686f10a525"
   state = {
     progress : 0 
   }
@@ -35,25 +35,25 @@ export default class App extends Component {
         <Routes>
           <Route exact path='/' element={<Homepage/>}  />
         <Route exact path="/general" element={
-            <News setProgress ={this.setProgress} apikey = {this.apikey}  key="general" country="us" category="general" pagesize={6} />
+            <News setProgress ={this.setProgress} apikey = "81eb3d155da54414bfd279686f10a525"  key="general" country="us" category="general" pagesize={6} />
           } />
            <Route  exact path="/business" element={
-            <News setProgress ={this.setProgress} apikey = {this.apikey} key="business" country="us" category="business" pagesize={6} />
+            <News setProgress ={this.setProgress} apikey = "81eb3d155da54414bfd279686f10a525" key="business" country="us" category="business" pagesize={6} />
           } />
          <Route exact path="/entertainment" element={
-            <News setProgress ={this.setProgress} apikey = {this.apikey} key="entertainment" country="us" category="entertainment" pagesize={6} />
+            <News setProgress ={this.setProgress} apikey = "81eb3d155da54414bfd279686f10a525" key="entertainment" country="us" category="entertainment" pagesize={6} />
           } />
            <Route exact path="/health" element={
-            <News setProgress ={this.setProgress} apikey = {this.apikey} key="health" country="us" category="general" pagesize={6} />
+            <News setProgress ={this.setProgress} apikey = "81eb3d155da54414bfd279686f10a525" key="health" country="us" category="general" pagesize={6} />
           } />
           <Route exact strict path="/science" element={
-            <News setProgress ={this.setProgress} apikey = {this.apikey} key="science"country="us" category="science" pagesize={6} />
+            <News setProgress ={this.setProgress} apikey = "81eb3d155da54414bfd279686f10a525" key="science"country="us" category="science" pagesize={6} />
           } />
           <Route exact path="/sports" element={
-            <News setProgress ={this.setProgress} apikey = {this.apikey} key="sports" country="us" category="general" pagesize={6} />
+            <News setProgress ={this.setProgress} apikey = "81eb3d155da54414bfd279686f10a525" key="sports" country="us" category="general" pagesize={6} />
           } />
           <Route exact path="/technology" element={
-            <News setProgress ={this.setProgress} apikey = {this.apikey} key="technology" country="us" category="general" pagesize={6} />
+            <News setProgress ={this.setProgress} apikey = "81eb3d155da54414bfd279686f10a525" key="technology" country="us" category="general" pagesize={6} />
           } />
           
         </Routes>
